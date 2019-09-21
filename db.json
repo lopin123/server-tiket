@@ -8,7 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "jadwalshuttle": [{"trans": 5},{"trans":6}],
+  "jadwalshuttle": [ {"transporter_no": 5, "class": "umum","subclass": "umum-sub","transporter_name": "elf","adult_fare": 50, "infant_fare": 20, "org": "BANDUNG","des": "Shuttle ElfiKapasitas 40 orang","dep_datetime": "2019-06-06 06:00","arv_datetime": "2019-06-06 08:00","avb": 20}],
   "profile": {
     "name": "typicode"
   }
