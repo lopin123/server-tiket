@@ -10,7 +10,7 @@
   ],
   "jadwalshuttle": [ 
     {"transporter_no": 5, "class": "umum","subclass": "umum-sub","transporter_name": "elf","adult_fare": 50, "infant_fare": 20, "org": "BANDUNG","des": "Shuttle ElfiKapasitas 40 orang","dep_datetime": "2019-06-06 06:00","arv_datetime": "2019-06-06 08:00","avb": 20},
-    {"transporter_no": 5, "class": "umum","subclass": "umum-sub","transporter_name": "elf","adult_fare": 50, "infant_fare": 20, "org": "BANDUNG","des": "Shuttle ElfiKapasitas 40 orang","dep_datetime": "2019-06-06 06:00","arv_datetime": "2019-06-06 08:00","avb": 20}
+    {"transporter_no": 6, "class": "umum","subclass": "umum-sub","transporter_name": "elf","adult_fare": 20, "infant_fare": 10, "org": "BANDUNG","des": "Shuttle ElfiKapasitas 40 orang","dep_datetime": "2019-06-06 06:00","arv_datetime": "2019-06-06 08:00","avb": 15}
   ],
   "profile": {
     "name": "typicode"
