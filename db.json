@@ -11,4 +11,19 @@
   "profile": {
     "name": "typicode"
   }
+  "jadwalshuttle":[
+
+  {
+   "TRANSPORTER_NO": 5,
+   "CLASS": "UMUM",
+   "SUBCLASS": "UMUM-SUB",
+   "TRANSPORTER_NAME": "ELF",
+   "ADULT_FARE": 50,
+   "INFANT_FARE": 20,
+   "ORG": "BANDUNG",
+   "DES": "Shuttle Elfi Kapasitas 40 orang",
+   "DEP_DATETIME": "2019-06-06 06:00",
+   "ARV_DATETIME": "2019-06-06 08:00",
+   "AVB": 20
+  }],
 }
