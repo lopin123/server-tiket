@@ -13,8 +13,8 @@
   },
   "test":{"data":[{"id":"1"},{"id":"2"}]},
   "jadwalshuttle":{"data":[
-        {"TRANSPORTER_NO": "1", "class": "some comment", "subclass": "1", "transporter_name":"elf","adult_fare": "1", "infant_fare": "some comment", "org": "1", "des":"elf", "dep_datetime":"2019-06-06 06:00","arv_datetime": "2019-06-06 08:00","avb": "20"},
-	{"TRANSPORTER_NO": "2", "class": "some comment", "subclass": "1", "transporter_name":"elf","adult_fare": "1", "infant_fare": "some comment", "org": "1", "des":"elf", "dep_datetime":"2019-06-06 06:00","arv_datetime": "2019-06-06 08:00","avb": "20"}
+        {"TRANSPORTER_NO": "1", "CLASS": "some comment", "SUBCLASS": "1", "TRANSPORTER_NAME":"elf","ADULT_FARE": "1", "INFANT_FARE": "some comment", "ORG": "1", "DES":"elf", "DEP_DATETIME":"2019-06-06 06:00","ARV_DATETIME": "2019-06-06 08:00","AVB": "20"},
+	{"TRANSPORTER_NO": "2", "CLASS": "some comment", "SUBCLASS": "1", "TRANSPORTER_NAME":"elf","ADULT_FARE": "1", "INFANT_FARE": "some comment", "ORG": "1", "DES":"elf", "DEP_DATETIME":"2019-06-06 06:00","ARV_DATETIME": "2019-06-06 08:00","AVB": "20"}
 	]}
   
 }
