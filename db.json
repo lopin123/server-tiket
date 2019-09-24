@@ -13,8 +13,8 @@
   },
   "test":{"data":[{"id":"1"},{"id":"2"}]},
   "jadwalshuttle":{"data":[
-        {"TRANSPORTER_NO": "1", "CLASS": "some comment", "SUBCLASS": "1", "TRANSPORTER_NAME":"elf","ADULT_FARE": "1", "INFANT_FARE": "0", "ORG": "1", "DES":"ELF", "DEP_DATETIME":"2019/09/28 06:00","ARV_DATETIME": "2019/09/28 08:00","AVB": "20"},
-	{"TRANSPORTER_NO": "2", "CLASS": "some comment", "SUBCLASS": "1", "TRANSPORTER_NAME":"elf","ADULT_FARE": "1", "INFANT_FARE": "0", "ORG": "1", "DES":"INNOVA", "DEP_DATETIME":"2019/09/28 18:00","ARV_DATETIME": "2019/09/28 19:00","AVB": "20"}
+        {"TRANSPORTER_NO": "1", "CLASS": "some comment", "SUBCLASS": "1", "TRANSPORTER_NAME":"elf","ADULT_FARE": "1", "INFANT_FARE": "0", "ORG": "1", "DES":"ELF", "DEP_DATETIME":"2019/09/24 06:00","ARV_DATETIME": "2019/09/24 08:00","AVB": "20"},
+	{"TRANSPORTER_NO": "2", "CLASS": "some comment", "SUBCLASS": "1", "TRANSPORTER_NAME":"elf","ADULT_FARE": "1", "INFANT_FARE": "0", "ORG": "1", "DES":"INNOVA", "DEP_DATETIME":"2019/09/24 18:00","ARV_DATETIME": "2019/09/24 19:00","AVB": "20"}
 	]}
   
 }
