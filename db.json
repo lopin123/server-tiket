@@ -4,13 +4,6 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],					
-  "profile": {
-    "name": "typicode"
-  },
   "test":{"data":[{"id":"1"},{"id":"2"}]},
   "jadwalshuttle":{"data":[
         {"TRANSPORTER_NO": "1", "CLASS": "some comment", "SUBCLASS": "1", "TRANSPORTER_NAME":"ELF","ADULT_FARE": "1", "INFANT_FARE": "0", "ORG": "BDG", "DES":"BD", "DEP_DATETIME":"2019-09-24 06:00","ARV_DATETIME": "2019-09-24 08:00","AVB": "20"},
