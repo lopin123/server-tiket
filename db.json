@@ -9,6 +9,5 @@
         {"TRANSPORTER_NO": "1", "CLASS": "some comment", "SUBCLASS": "1", "TRANSPORTER_NAME":"ELF","ADULT_FARE": "1", "INFANT_FARE": "0", "ORG": "BDG", "DES":"BD", "DEP_DATETIME":"2019-09-24 06:00","ARV_DATETIME": "2019-09-24 08:00","AVB": "20"},
 	{"TRANSPORTER_NO": "2", "CLASS": "some comment", "SUBCLASS": "1", "TRANSPORTER_NAME":"INNOVA","ADULT_FARE": "1", "INFANT_FARE": "0", "ORG": "BD", "DES":"BDG", "DEP_DATETIME":"2019-09-24 18:00","ARV_DATETIME": "2019-09-24 19:00","AVB": "20"}
 	]},
-  "book":{"nama":"Aldeoo","alamat":"Jkt"}
-  
+  "book":{"nama":"Aldeoo","alamat":"Jkt"} 
 }
